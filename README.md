@@ -35,4 +35,4 @@ The code is organized into several functions and uses OpenGL and GLUT library fu
 
 ## Acknowledgments
 
-This code is based on the work of the contributors Ashutosh Aditya and Abhinav Akarsh.
+This code is based on the work of the contributor Ashutosh Aditya.
