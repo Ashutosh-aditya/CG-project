@@ -1,6 +1,7 @@
 # CG-project Analog Clock
 
 This is a simple analog clock implemented using OpenGL and GLUT library in C++. The clock displays the current time with hour, minute, and second hands rotating around a circular dial. It provides options to change the color of the clock and toggle between Roman numerals and digits for the hour markers.
+<h3>Output at the end of this page</h3>
 
 ## Prerequisites
 
