@@ -36,3 +36,6 @@ The code is organized into several functions and uses OpenGL and GLUT library fu
 ## Acknowledgments
 
 This code is based on the work of the contributor Ashutosh Aditya.
+
+https://github.com/Ashutosh-aditya/CG-project/assets/78680582/ac2805bd-04d4-41be-8145-5dcb6fd842be
+
